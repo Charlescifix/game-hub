@@ -10,6 +10,11 @@ export default defineConfig({
   preview: {
     host: '0.0.0.0',
     port: process.env.PORT || 4173,
+    allowedHosts: [
+      'cifixgame.up.railway.app',
+      '.railway.app',
+      'localhost',
+    ],
   },
   build: {
     outDir: 'dist',
