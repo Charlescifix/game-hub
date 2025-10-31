@@ -68,6 +68,16 @@ const GAMES = [
       "Grow flowers by solving gentle sums and counting seeds. Add, subtract, and compare!",
   },
   {
+    id: "snack-math",
+    title: "Snack Math",
+    discipline: "math",
+    minAge: 5,
+    maxAge: 8,
+    icon: Calculator,
+    description:
+      "Feed Munchy the monster and learn subtraction! Count snacks on a picnic plate.",
+  },
+  {
     id: "shape-safari",
     title: "Shape Safari",
     discipline: "math",
