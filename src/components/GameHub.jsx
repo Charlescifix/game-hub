@@ -78,14 +78,14 @@ const GAMES = [
       "Feed Munchy the monster and learn subtraction! Count snacks on a picnic plate.",
   },
   {
-    id: "shape-safari",
-    title: "Shape Safari",
-    discipline: "math",
+    id: "shape-sort-dash",
+    title: "Shape Sort Dash",
+    discipline: "logic",
     minAge: 5,
     maxAge: 9,
-    icon: Compass,
+    icon: Puzzle,
     description:
-      "Spot circles, squares, and tricky polygons while exploring a playful map.",
+      "Drag falling shapes into matching outlines before they hit the ground!",
   },
   {
     id: "word-whizz-pop",
